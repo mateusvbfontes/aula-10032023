@@ -1,7 +1,3 @@
-/**
- * Exercicio al-Khwārizmī
- */
-
 class Estudante {
     constructor(nome, email, RA, curso, disciplinas) {
         this.nome = nome
